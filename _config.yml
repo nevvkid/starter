@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: http://nevvkid.github.io/starter/
 permalink: pretty
 markdown: rdiscount
 prose:
